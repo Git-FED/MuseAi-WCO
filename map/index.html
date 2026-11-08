@@ -7,7 +7,7 @@
 <link rel="stylesheet" href="../assets/site.css">
 <link rel="icon" type="image/svg+xml" href="../assets/favicon.svg">
 <link rel="stylesheet" href="../assets/site.css">
-<title>FED-SPA // Public Signal Atlas</title>
+<title>MuseAi-WCO // Public Map</title>
 <style>
 :root{--bg:#05070d;--panel:rgba(9,14,25,.76);--line:rgba(147,197,253,.15);--text:#eef5ff;--muted:#8da0b9;--cyan:#55e7ff;--violet:#9b7bff;--amber:#ffcc66;--green:#64f3a6;--red:#ff6e8e}
 *{box-sizing:border-box} html,body{margin:0;min-height:100%;background:var(--bg);color:var(--text);font-family:Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif}
@@ -28,15 +28,12 @@ body:after{content:"";position:fixed;inset:0;pointer-events:none;z-index:1;backg
 <body>
 <canvas id="field" aria-hidden="true"></canvas>
 <main class="shell">
-  <nav class="site-nav"><a class="brand" href="../index.html"><img src="../assets/logo-mark.svg" alt="Symbol mark">FED-SPA / SIGNAL ATLAS</a><div class="nav-links"><a href="../index.html">Home</a><a href="../pages/guide.html">Guide</a><a href="../pages/archive.html">Archive</a><a href="../pages/promo.html">Promo kit</a><a href="../pages/support.html">Support</a><a href="../pages/community.html">Community</a></div></nav>
-  <nav class="site-nav"><a class="brand" href="../index.html"><img src="../assets/logo-mark.svg" alt="Symbol mark">FED-SPA / SIGNAL ATLAS</a><div class="nav-links"><a href="../index.html">Home</a><a href="../pages/guide.html">Guide</a><a href="../pages/archive.html">Archive</a><a href="../pages/promo.html">Promo kit</a></div></nav>
-  <div class="topline"><div class="brand"><span class="sigil"></span> FED-SPA / SIGNAL ATLAS</div><div>PUBLIC TIER · OFFLINE VIEW</div></div>
+  <div class="topline"><div class="brand"><span class="sigil"></span> MuseAi-WCO</div><div>PUBLIC TIER · OFFLINE VIEW</div></div>
   <section class="hero"><div class="eyebrow">A redacted research surface</div><h1>Track the signal.<br><span style="color:var(--cyan)">Not the door.</span></h1><p>A dark, animated atlas of public-record status observations. Names, categories, and status only. No live links. No click-through access. Every unresolved claim stays visibly unresolved.</p></section>
   <section class="grid" id="metrics"></section>
   <div class="controls"><input id="search" placeholder="Filter by canonical name or category…" autocomplete="off"><select id="category"><option value="">All categories</option></select></div>
   <div class="legend" id="legend"></div>
   <div class="table-wrap"><table><thead><tr><th>Canonical name</th><th>Status</th><th>Category</th></tr></thead><tbody id="rows"></tbody></table></div>
-  <div class="actions" style="margin-top:24px"><a class="cta" href="../pages/guide.html">Read status guide →</a><a class="cta" href="../pages/promo.html">Open promo kit →</a></div>
   <div class="actions" style="margin-top:24px"><a class="cta" href="../pages/guide.html">Read status guide →</a><a class="cta" href="../pages/promo.html">Open promo kit →</a></div>
   <p class="footer">This page is generated from the public redacted CSV. It does not fetch the private tier, visit tracked services, follow redirects, or expose operational details. Data snapshot: 2026-11-08, as supplied.</p>
 </main>
