@@ -1,0 +1,7 @@
+@keyframes drift{0%,100%{transform:translate3d(0,0,0) rotate(0deg)}50%{transform:translate3d(0,-10px,0) rotate(1deg)}}
+@keyframes shimmer{0%{background-position:0% 50%}100%{background-position:200% 50%}}
+@keyframes pulse{0%,100%{box-shadow:0 0 0 rgba(85,231,255,0)}50%{box-shadow:0 0 34px rgba(85,231,255,.18)}}
+.page-bg{position:fixed;inset:0;z-index:-1;background:radial-gradient(circle at 75% 12%,rgba(85,231,255,.12),transparent 28%),radial-gradient(circle at 18% 80%,rgba(155,123,255,.12),transparent 24%),#05070d}
+.page-bg:after{content:"";position:absolute;inset:0;background:linear-gradient(115deg,transparent 0 45%,rgba(85,231,255,.05) 50%,transparent 55%),repeating-linear-gradient(0deg,rgba(255,255,255,.018) 0 1px,transparent 1px 4px);background-size:200% 100%;animation:shimmer 13s linear infinite;pointer-events:none}
+.site-nav{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:18px 0;border-bottom:1px solid rgba(147,197,253,.15)}
+.site-nav .brand{display:flex;align-items:center;gap:10px;color:#55e7ff;font-weight:800;letter-spacing:.08em;text-decoration:none}.site-nav img{width:34px;height:34px}.nav-links{display:flex;flex-wrap:wrap;gap:8px}.nav-links a,.cta{color:#c8d7e9;text-decoration:none;border:1px solid rgba(147,197,253,.18);border-radius:999px;padding:8px 11px;font-size:12px;background:rgba(5,9,17,.55);transition:.2s ease}.nav-links a:hover,.cta:hover{color:#fff;border-color:#55e7ff;transform:translateY(-2px);box-shadow:0 0 18px rgba(85,231,255,.15)}

@@ -1,0 +1,344 @@
+name,category,status,last_seen_date,notes,source
+Cineby,movie-tv-streaming,DEAD,2026-11-08,"Original shut down Aug 26 2026 after losing video providers; staged takedown to early Sep; 160M+ visits Jul 2026; clones (cineby.tech/.ws/.ninja/.vg) run by unknown operators",TorrentFreak; NAT Checker; W1
+Sflix / MyFlixer,movie-tv-streaming,DEAD,2026-11-08,"Originals dead (FMovies network Aug 2024; HiAnime network dismantled 2026); Nov 4 2026 test found 7-9 branded copies loading; all clones unrelated to original operators per reporting; 622M visits Aug 2025",MPA 2026 filing; NAT Checker; W1; W2; W19
+FMovies,movie-tv-streaming,DEAD,2026-11-08,"Original shut Aug 2024 by Hanoi police + ACE; 2 operators got suspended sentences 2025; clones persist and cycle domains; Git-FED claim FMovies is now 7movie is NOT VERIFIED in reporting",TorrentFreak; ACE; W1; W19
+123Movies,movie-tv-streaming,DEAD,2026-11-08,"Original shut Mar 2018 after MPAA criminal referral in Vietnam; Nov 4 2026 test of 18 domains found 3 branded copies loading; rest blocked/parked/dead",NAT Checker; W1
+Soap2Day,movie-tv-streaming,DEAD,2026-11-08,"Original shut Jun 2023 after studios sued in Federal Court of Canada; ~108M visits/mo at peak; Nov 4 2026 test found 5 of 18 domains loading branded copies; Git-FED millions-of-mirrors claim OVERSTATED per W19",NAT Checker; TorrentFreak; W1; W19
+9anime / AniWave,movie-tv-streaming,DEAD,2026-11-08,"9anime rebranded to AniWave Aug 2023; both offline Aug 27 2024 (ACE + Vietnamese police); remaining mirrors died Apr 2026 backend collapse; every 9anime site today is a clone; Git-FED URL-only-change claim PARTLY WRONG per W19",TorrentFreak; Wikipedia; W1; W19
+HiAnime,movie-tv-streaming,DEAD,2026-11-08,"Largest anime pirate site ever (300M+ visits/mo peak); went dark Mar 2026; 4 operators arrested Jul 2026, 7 indicted Oct 30 2026; $12.85M ad revenue via PropellerAds; network also ran Sflix/MyFlixer and 9animetv",TorrentFreak; W1; W3
+HydraHD,movie-tv-streaming,UP,2026-11-08,"MPA hydra-site category; rents video from shared PaaS backends; CONFLICT: named in Delhi High Court 248-domain suspension order Sep 2025 (W14) but listed active in MPA 2026 filing and FMHY wiki (W2); current live status after Oct 27 2026 Streamed shutdown UNVERIFIED",MPA 2026 filing; TorrentFreak; W2; W14
+Nunflix,movie-tv-streaming,UP,2026-11-08,"MPA hydra-site category; no shutdown reported as of Nov 2026; current live status after Oct 27 2026 Streamed backend shutdown UNVERIFIED",MPA 2026 filing; W2
+Rivestream,movie-tv-streaming,UP,2026-11-08,"MPA hydra-site category; no shutdown reported as of Nov 2026; lost streams when Streamed shut Oct 27 2026 per W4; current live status UNVERIFIED after that date",MPA 2026 filing; W2; W4
+Watchug,movie-tv-streaming,UP,2026-11-08,"MPA hydra-site category; no shutdown reported as of Nov 2026; exact current status of individual domain UNVERIFIED - hydra domains cycle constantly",MPA 2026 filing; W1; W2
+VidBox / CineHD,movie-tv-streaming,UP,2026-11-08,"MPA hydra-site category; listed as VidBox/CineHD and CineHD/VidBox in reporting - possibly one operation under two names; no shutdown reported as of Nov 2026",MPA 2026 filing; W1; W2
+Broflix,movie-tv-streaming,UP,2026-11-08,"MPA hydra-site category; no shutdown reported as of Nov 2026; exact current domain status UNVERIFIED",MPA 2026 filing; W1; W2
+Flickystream,movie-tv-streaming,UP,2026-11-08,"MPA hydra-site category; no shutdown reported as of Nov 2026; exact current domain status UNVERIFIED",MPA 2026 filing; W1; W2
+Mapple,movie-tv-streaming,UP,2026-11-08,"MPA hydra-site category; lost streams when Streamed shut Oct 27 2026 per W4; current live status UNVERIFIED after that date",MPA 2026 filing; W1; W4
+Alienflix,movie-tv-streaming,UP,2026-11-08,"MPA hydra-site category; no shutdown reported as of Nov 2026; exact current domain status UNVERIFIED",MPA 2026 filing; W1; W2
+Novastream,movie-tv-streaming,UP,2026-11-08,"MPA hydra-site category; no shutdown reported as of Nov 2026; exact current domain status UNVERIFIED",MPA 2026 filing; W1; W2
+1Shows / 1Flex,movie-tv-streaming,UP,2026-11-08,"New MPA hydra threats; UNVERIFIED whether one operation or two; no shutdown reported as of Nov 2026",MPA 2026 filing; W1
+StreamEX,movie-tv-streaming,UP,2026-11-08,"MPA hydra-site category; lost streams when Streamed shut Oct 27 2026 per W4; current live status UNVERIFIED after that date",MPA 2026 filing; W1; W4
+KissKH,movie-tv-streaming,UP,2026-11-08,"Only priority linking/streaming entry in MPA 2026 list; 70M+ visits Aug 2026 mostly India; operates across multiple domains; named in HBO Delhi blocking order Jul 2026 but main domains not listed",MPA 2026 filing; TorrentFreak; W1; W2; W3
+Cuevana,movie-tv-streaming,UP,2026-11-08,"Spanish-language giant; many millions of active users per MPA 2026; named in Chile Subtel blocklist (1954 URLs) and Indian court orders; still online per BioBioChile",MPA 2026 filing; TorrentFreak; W2
+Streamzy,movie-tv-streaming,MIRROR,2026-11-08,"streamzy.to placed on clientHold/serverHold Jul 28 2026 under HBO Delhi High Court order (30 operations / 120+ domains); operators moved visitors to streamzy.org within a day",TorrentFreak; W1; W2
+AnimeFLV,movie-tv-streaming,DEAD,2026-11-08,"World's largest Spanish-language anime site; 1B+ annual visits; stopped serving video mid-Jun 2026; MPA took credit Oct 2026; copycats appeared; exact shutdown date UNVERIFIED",TorrentFreak; MPA 2026 filing; W1; W3
+TVWiki,movie-tv-streaming,SEIZED,2026-11-08,"Korea's most popular illegal streaming site (formerly NoonooTV / NunuTV; same operator ran OKTOON); operator arrested Nov 2024; appellate court Nov 2025: several years prison + 374.7M won (~$250K) forfeiture; Supreme Court upheld 4.5 years Jan 2026",MPA 2026 filing; TorrentFreak; W1; W15
+Dizigom,movie-tv-streaming,SEIZED,2026-11-08,"One of Turkiye's most prominent illegal streaming services; dismantled after multiyear cross-border investigation; six domains transferred to ACE",MPA 2026 filing; W1
+Flixtor,movie-tv-streaming,MIRROR,2026-11-08,"CONFLICT: W2 lists as UP via shifting domains; W19 finds flixtor.com parked and current Flixtor domains unverified clones; FMovies-network sister flixtorz.to shut Jul 2024 and redirected to theflixtor.to; operator continuity UNVERIFIED",TorrentFreak; W2; W19
+PStream,movie-tv-streaming,DEAD,2026-11-08,"Shut down 2026 after DMCA subpoenas and legal pressure from MPA/ACE; domains no longer a working service",Rankite; W2
+LordFlix,movie-tv-streaming,UNKNOWN,2026-11-08,"Named among 30 operations / 120+ domains in HBO Delhi High Court blocking order Jul 2026; current status UNVERIFIED",TorrentFreak; W1
+Watchseries,movie-tv-streaming,DEAD,2026-11-08,"Went dark in Apr 2026 shared-backend infrastructure collapse alongside Sflix and 9anime mirrors; also named in HBO Delhi blocking order Jul 2026",TorrentFreak; W1
+HDToday,movie-tv-streaming,DEAD,2026-11-08,"Went dark in Apr 2026 shared-backend infrastructure collapse; FMovies-network affiliate per W19",TorrentFreak; W1; W19
+MoviesJoy,movie-tv-streaming,DEAD,2026-11-08,"moviesjoytv.to returned Cloudflare 521 errors in Apr 2026 shared-backend failure; part of HiAnime-network collapse; current status UNVERIFIED beyond that",TorrentFreak; W2; W19
+Fboxz,movie-tv-streaming,DEAD,2026-11-08,"Went offline Aug 27 2024 alongside AniWave in ACE + Vietnamese police collapse",TorrentFreak; W19
+ZoroX,movie-tv-streaming,DEAD,2026-11-08,"FMovies-network affiliate shut down Aug 2024 in Hanoi takedown",TorrentFreak; W15; W19
+Bflix / Bflixz,movie-tv-streaming,DEAD,2026-11-08,"FMovies-network affiliate shut down Aug 2024 in Hanoi takedown",TorrentFreak; W14; W19
+Flixtorz,movie-tv-streaming,DEAD,2026-11-08,"FMovies-network sister site; shut down Jul 2024 and redirected visitors to theflixtor.to; named in Aug 2024 Hanoi takedown affiliates",TorrentFreak; W14; W19
+movies7,movie-tv-streaming,DEAD,2026-11-08,"FMovies-network sister site; shut down Jul 2024 and redirected to mov2day.to; NOT a rename of FMovies per W19 - separate sister site",TorrentFreak; W14; W19
+mov2day,movie-tv-streaming,UNKNOWN,2026-11-08,"Redirect target of movies7.to after Jul 2024 shutdown; no later status reported",TorrentFreak; W19
+theflixtor,movie-tv-streaming,UNKNOWN,2026-11-08,"Redirect target of flixtorz.to after Jul 2024 shutdown; no later status reported",TorrentFreak; W19
+2flix,movie-tv-streaming,UNKNOWN,2026-11-08,"Redirect target of swatchseries.mx after Jul 2024 shutdown; no later status reported",TorrentFreak; W19
+Swatchseries,movie-tv-streaming,DEAD,2026-11-08,"FMovies-network sister site; shut down Jul 2024 and redirected to 2flix",TorrentFreak; W19
+Flixer,movie-tv-streaming,DEAD,2026-11-08,"Named among 12+ FMovies sister sites shut down Jul 2024",TorrentFreak; W19
+Putlocker,movie-tv-streaming,DEAD,2026-11-08,"Named among 12+ FMovies sister sites shut down Jul 2024; brand long predates that network",TorrentFreak; W19
+LookMovie,movie-tv-streaming,MIRROR,2026-11-08,"lookmovie.io seized/suspended 2021-2022 after ACE DMCA subpoena; operator named lookmovie2.to as replacement Mar 2022; CONFLICT: sources disagree whether lookmovie2.to is the genuine successor or all current sites are copycats",TorrentFreak; W19
+Videasy,movie-tv-streaming,DEAD,2026-11-08,"Cineby embed service; offline after Cineby shutdown Aug-Sep 2026",TorrentFreak; W1; W2
+Vidking,movie-tv-streaming,DEAD,2026-11-08,"Still accessible but with no connected source servers so it cannot stream per W2",W2
+1Movies,movie-tv-streaming,UNKNOWN,2026-11-08,"Video provider group blamed by Cineby operators for its shutdown (down ~3 months before Aug 2026); no independent status reported",TorrentFreak; W1
+9animetv,movie-tv-streaming,DEAD,2026-11-08,"Part of HiAnime network (26,000 TV series + 7,500 anime titles); dismantled with network Mar-Jul 2026",TorrentFreak; W1; W3
+VegaMovies,movie-tv-streaming,UNKNOWN,2026-11-08,"Named among 30 operations / 120+ domains in HBO Delhi High Court blocking order Jul 2026; current status UNVERIFIED",TorrentFreak; W1
+MoviesMod,movie-tv-streaming,UNKNOWN,2026-11-08,"Named among 30 operations / 120+ domains in HBO Delhi High Court blocking order Jul 2026; current status UNVERIFIED",TorrentFreak; W1
+BollyFlix,movie-tv-streaming,UNKNOWN,2026-11-08,"Named among 30 operations / 120+ domains in HBO Delhi High Court blocking order Jul 2026; current status UNVERIFIED",TorrentFreak; W1
+MovieRulz,movie-tv-streaming,UNKNOWN,2026-11-08,"Named among 30 operations / 120+ domains in HBO Delhi High Court blocking order Jul 2026; current status UNVERIFIED",TorrentFreak; W1
+FilmyZilla,movie-tv-streaming,UNKNOWN,2026-11-08,"Named among 30 operations / 120+ domains in HBO Delhi High Court blocking order Jul 2026; current status UNVERIFIED",TorrentFreak; W1
+Isaidub,movie-tv-streaming,UNKNOWN,2026-11-08,"Named defendant in Delhi High Court case CS(COMM) 1009/2025 (Universal v. Isaidub.spot) leading to 248-domain suspension order Sep 2025; current status UNVERIFIED",TorrentFreak; W14
+iBomma / Bappam TV,movie-tv-streaming,MIRROR,2026-11-08,"Operator Immadi Ravi arrested Nov 2025 in Hyderabad; 65+ mirror sites; 21,000-title library; in custody with 13+ charges, no verdict yet; clone iBomma One appeared immediately after arrest",TorrentFreak; W15
+Mkvcinemas,movie-tv-streaming,DEAD,2026-11-08,"ACE credited with sudden shutdown Dec 2025 per TorrentFreak headline cited in W15; details not in report body - thin sourcing, UNVERIFIED detail",TorrentFreak; W15
+Aiyifan (YFSP / IYF),movie-tv-streaming,UNKNOWN,2026-11-08,"Chinese-language pirate streaming service; iQIYI won $1.96M default judgment Oct 2026 (asked $196.55M); one operator jailed 4.5 years in China; site status itself not reported",TorrentFreak; W16
+Olevod,movie-tv-streaming,UNKNOWN,2026-11-08,"Tencent suit survives dismissal Sep 23 2026; up to $100M+ theoretical damages; case ongoing; site status not reported",TorrentFreak; W16
+Jetflicks,movie-tv-streaming,DEAD,2026-11-08,"Ran 2007-2019; FBI shutdown; five operators sentenced May 2025 after jury trial (ringleader 7 years + $375K fine); DOJ valued infringement at $37.5M",US DOJ; W15
+Phim Nè,movie-tv-streaming,UNKNOWN,2026-11-08,"Vietnamese operators in criminal case Aug 2026 over Japanese content (first of its kind per CODA); site status not reported",CODA via TorrentFreak; W1
+Aniwaves,anime-streaming,UP,2026-11-08,"Largest surviving anime pirate site; 114.5M visits Aug 2026; new entry on MPA 2026 notorious-markets list",TorrentFreak; CBR; W3
+AnimePahe,anime-streaming,UP,2026-11-08,"English-subbed anime; 54.88M visits Aug 2026; new entry on MPA 2026 list",TorrentFreak; TroyPoint; W3
+Anime-Sama,anime-streaming,UP,2026-11-08,"French-language anime portal; ~48M visits Aug 2026; on MPA 2026 list",TorrentFreak; CBR; W3
+Animeunity,anime-streaming,UP,2026-11-08,"Italian-language anime audience; 22.64M+ visits; on MPA 2026 list",CBR; W3
+GoGoAnime,anime-streaming,MIRROR,2026-11-08,"Brand UP as rotating domains run by different groups; original operators stopped updating years ago; many malicious clones; TroyPoint Nov 6 2026 lists a working domain; operator continuity UNVERIFIED",TroyPoint; W3
+AnimeKai,anime-streaming,DEAD,2026-11-08,"Became largest anime pirate site Mar-May 2026 after HiAnime fell; shut down May 10 2026; operators blamed data-center fire, later clarified as power-supply fire; no revival planned",CBR; W3; W14
+Anime Play,anime-streaming,SEIZED,2026-11-08,"Android-first anime app, 5M+ users, popular in Southeast Asia; ACE + MPA seized entire backend Mar 2026: 60TB content, 29 GitHub repos, 15 domains",CBR; W3
+AniGo,anime-streaming,DEAD,2026-11-08,"Smaller anime streamer, ~1.5M monthly users; dead May 2026; Delhi High Court order led to domain-registry suspension via Tonga (.to TLD)",CBR; W3
+AnimeSuge,anime-streaming,UNKNOWN,2026-11-08,"Named in Delhi High Court follow-up order Jan 12 2026 targeting 9anime, AnimeSuge, Anime Salt, Anikoto; current status UNVERIFIED",TorrentFreak; W14
+Anime Salt,anime-streaming,UNKNOWN,2026-11-08,"Named in Delhi High Court follow-up order Jan 12 2026; current status UNVERIFIED",TorrentFreak; W14
+Anikoto,anime-streaming,UNKNOWN,2026-11-08,"Named in Delhi High Court follow-up order Jan 12 2026; current status UNVERIFIED",TorrentFreak; W14
+AnimesHeaven,anime-streaming,UNKNOWN,2026-11-08,"Named among 106 rogue sites in Delhi High Court 248-domain suspension order Sep 2025; current status UNVERIFIED",TorrentFreak; W14
+Anoboy,anime-streaming,UNKNOWN,2026-11-08,"Named among 106 rogue sites in Delhi High Court 248-domain suspension order Sep 2025; current status UNVERIFIED",TorrentFreak; W14
+123animehub,anime-streaming,UNKNOWN,2026-11-08,"Named among 106 rogue sites in Delhi High Court 248-domain suspension order Sep 2025; current status UNVERIFIED",TorrentFreak; W14
+1xAnime,anime-streaming,UNKNOWN,2026-11-08,"Named in Delhi High Court order Sep 2025; some low-quality reports claim FBI seized it Oct 2025 as part of Operation 404 - that attribution is UNVERIFIED, no FBI/DOJ release found",TorrentFreak; W14
+StreamEast,sports-streaming,DEAD,2026-11-08,"Original network seized/dead; 80-120 domains shut Aug-Sep 2025 (ACE + Egyptian police, 1.6B visits/yr); 2 operators convicted Jul 2026 (2 years + ~$110K fines); CONFLICT: TorrentFreak reported the Aug 2025 network was a copycat and the original kept running - brand-vs-network distinction unresolved",TorrentFreak; ACE; W4; W14
+CrackStreams,sports-streaming,DEAD,2026-11-08,"Original went dark Dec 30 2024, formal shutdown Jan 31 2025; ACE removed ~138 domains; HSI seized 40+ Feb 2025; operators warned all current sites are unaffiliated clones",TorrentFreak; W4
+MethStreams,sports-streaming,DEAD,2026-11-08,"CrackStreams sister site; offline Dec 30 2024; clone domain seized Jun 2026; no verified official replacement; Jul 2026 traffic estimate ~208K visits UNVERIFIED whether clone or parked domain",TorrentFreak; W4
+Buffstreams,sports-streaming,MIRROR,2026-11-08,"ACE took over buffstreams.app Sep 2025; Operation Offsides seized ibuffstreams.app Jul 2026; buffstreams.ir backup live Jul 2026 (SSL certs since Sep 2023, pre-positioned fallback)",TorrentFreak; W4
+Sportsurge,sports-streaming,MIRROR,2026-11-08,"sportsurge.ws seized Jul 2026 (Operation Offsides); sportsurge.ir active Jul 2026; survives by domain-hopping; named in Jul 8 2026 Paris court blocking order",TorrentFreak; W4
+Footybite,sports-streaming,MIRROR,2026-11-08,"footybite.app seized Jul 2026; footybite.to reportedly seized Jun 2026; footybite.ir in use Jul 2026; named in UEFA Feb 2026 Delhi High Court order",TorrentFreak; W4
+Totalsportek,sports-streaming,MIRROR,2026-11-08,"ACE took over totalsportek.fun Sep 2025; totalsportekz.app seized Jul 2026; .ir in use Jul 2026; dozens of mirrors; Premier League Cloudflare/Tucows subpoenas 2025-2026",TorrentFreak; W4
+Rojadirecta,sports-streaming,MIRROR,2026-11-08,"Main domain seized Jun-Jul 2026 (Operation Offsides, DOJ/HSI banner as of Oct 2 2026 scan); copycat mirrors active - UNVERIFIED which if any are run by original operators; Spanish Supreme Court upheld liability 2024",TorrentFreak; W4
+Hesgoal,sports-streaming,MIRROR,2026-11-08,"hesgoals.lol and hesgoaltv.lat seized Jul 2026 (Operation Offsides); mirrors circulate under the name - operator UNVERIFIED",TorrentFreak; W4
+FirstRow Sports,sports-streaming,MIRROR,2026-11-08,"firstrowsports.org seized Jul 2026 (Operation Offsides); community reports Oct 2026 still list it as going - UNVERIFIED whether current instances are original or clones",TorrentFreak; W4
+DaddyLive / DaddyLiveHD,sports-streaming,MIRROR,2026-11-08,"daddylive.org seized Jul 2026 (Operation Offsides); still appears in Oct 2026 fight-night link lists under alternate TLDs - operator continuity UNVERIFIED",TorrentFreak; W4
+VIPBox / VIPLeague / VIPRow,sports-streaming,MIRROR,2026-11-08,"Network fragmented; ACE took over thevipbox.org Sep 2025; vipbox-tv.live seized Jul 2026; no single shutdown moment; no verifiable real VIPRow exists; rotating clones/mirrors only",TorrentFreak; W4
+Score808,sports-streaming,MIRROR,2026-11-08,"808score.net and score-808.net seized Jul 2026 (Operation Offsides); still appears in Oct 2026 fight-night lists - operator continuity UNVERIFIED",TorrentFreak; W4
+NFLBite / NBABite,sports-streaming,MIRROR,2026-11-08,"Originals stopped resolving Sep 2023 after Indian court order; ACE took over lookalike domains Sep 2025; NFLBite-branded .ir domains still in use Jul 2026",TorrentFreak; W4
+Stream2Watch,sports-streaming,UP,2026-11-08,"No 2026 seizure found in reporting reviewed; listed among top CrackStreams alternatives 2026; current status UNVERIFIED - reported as up but unstable, aggressive ads, frequent ISP blocking",TorrentFreak; W4
+PirloTV,sports-streaming,SEIZED,2026-11-08,"44 domains seized ~May 2026 (ACE + UEFA + Mexico IMPI, first action under Dec 2025 memorandum); 950M+ visits/yr; new domains swiftly popped up (e.g. pirlotvplay) - possibly same operators; exact date UNVERIFIED",TorrentFreak; W14
+Tarjeta Roja,sports-streaming,UNKNOWN,2026-11-08,"Named among ~600 domains across 12 brands in TelevisaUnivision self-expanding injunction paperwork (Sep 2026); no standalone status reported",TorrentFreak; W8; W16
+Fútbol Libre,sports-streaming,MIRROR,2026-11-08,"Clones found working after Chile's blocks per TorrentFreak; brand survives as clones",TorrentFreak; W8
+Al Ángulo TV,sports-streaming,UNKNOWN,2026-11-08,"Operator Alejo Leonel Warles arrested Aug 20 2025 in Argentina; 3M+ visits Jul 2025; released on bail after 3 days; case ongoing, no verdict; site status not reported",TorrentFreak; W15
+Xoi Lac TV network,sports-streaming,MIRROR,2026-11-08,"Vietnamese soccer network (XoilacTV, 90PhutTV, VeboTV, ThapcamTV, BanhkhucTV, CakeoTV, Cakhia); raided Feb 2026, 30 charged Mar 2026, 74 people to be charged Sep 2026; Infoblox says wider Sable Squirrel operation recovered within a month - link to prosecuted individuals highly likely but NOT confirmed",TorrentFreak; W4
+Acestream,sports-streaming,SEIZED,2026-11-08,"Named among brands in Feb 2025 Super Bowl domain-seizure campaign (HSI/IPR Center, 200+ domains total); current status not reported",TorrentFreak; W14
+Calcio / Calciostreaming,sports-streaming,SEIZED,2026-11-08,"Italian sports brands seized in ACE/MPA bulk domain actions Q1-Q2 2025 (~80 then 110+ domains); exact details UNVERIFIED",TorrentFreak; W14
+Altadefinizione,sports-streaming,UNKNOWN,2026-11-08,"Named in reporting only as NOT targeted by ACE Q1-Q2 2025 bulk seizures; status otherwise UNVERIFIED",TorrentFreak; W14
+Streamed,backend-paas,DEAD,2026-11-08,"Live-sports Piracy-as-a-Service backend behind ~30 sites (463M combined visits Jul 2026); shut itself down Oct 27 2026 with no reason given; dozens of dependent sites lost streams overnight",TorrentFreak; MPA 2026 filing; W4
+Vidsrc,backend-paas,MIRROR,2026-11-08,"Video-embed backend used by 667 sites (637M visits Jul 2025); taken down Aug 2024 in FMovies takedown, later revived; Delhi High Court order Sep 2025 targeted it; migrated to Russian .ru/.su domains; CONFLICT: W1 reports Aug 2024 takedown, W14 reports later migration - treat as same backend resurfacing",TorrentFreak; MPA 2026 filing; W1; W2; W14
+VidFast,backend-paas,UP,2026-11-08,"Shared PaaS video backend reportedly used by 158+ sites, ~629M monthly visits combined",MPA 2026 filing; W1
+Megacloud / Vidcloud,backend-paas,DEAD,2026-11-08,"Shared backend behind Sflix/9anime mirrors; collapsed Apr 2026; network dismantled Jul 2026 with HiAnime arrests",TorrentFreak; W1; W2
+Bato.to,manga-comics,DEAD,2026-11-08,"World's largest manga piracy network (~350M visits/mo across ~60 linked sites at peak May 2025); operator arrested in China Nov 2025 after CODA complaint; shut down Jan 2026; criminal prosecution pending",TorrentFreak; CBR; W9
+MangaDex,manga-comics,UP,2026-11-08,"Largest surviving scanlation platform; May 2025 DMCA wave removed ~7,000 titles; management handed to NamiComi; UNVERIFIED (single social source): Nov 5 2026 claim of another ~700 series removed - no reputable outlet confirmed",W9
+MangaPark / AniXL,manga-comics,UP,2026-11-08,"Up per 2026 guides; Kakao/P.CoK told TorrentFreak Jan 2026 it is preparing strong legal actions against MangaPark and Bato-affiliated sites",TorrentFreak; W9
+TuMangaOnline,manga-comics,DEAD,2026-11-08,"Spanish-language manga/webtoon hub; 50M+ users Mar 2026; went dark ~Mar 18 2026, main domain on clienthold; takedown by Korea COA with Spanish enforcement in Almeria; confirmed permanent Apr 2026",TorrentFreak; CBR; W9
+TuMangaOnline clones (Lectortmo.vip; Lectormangaa.com),manga-comics,MIRROR,2026-11-08,"Clone domains Lectortmo.vip and Lectormangaa.com reported still up after TuMangaOnline takedown",TorrentFreak; W9
+Comick,manga-comics,DEAD,2026-11-08,"One of biggest manga sites (~400M visits in 3 months before shutdown); shut down Sep 16 2025 after operator's identity obtained via CDNs/Cloudflare; fake mirrors (e.g. Comick.gg) now circulate",W9
+Mangajikan,manga-comics,DEAD,2026-11-08,"Shut down Jun 2025; ~180M monthly visitors; Shueisha forced Cloudflare to unmask operator; Tokyo court ordered Cloudflare pay ~$3.2M damages Nov 20 2025",CBR; W9
+Reaper Scans,manga-comics,DEAD,2026-11-08,"Major English manhwa/web-novel scanlation group; permanent shutdown May 9 2025 after Kakao Entertainment cease-and-desist",Anime News Network; W9
+Mangakakalot / Manganato,manga-comics,UP,2026-11-08,"Up per 2026 guides; publishers issued additional DMCA subpoenas targeting them (CBR Nov 20 2025); current live status UNVERIFIED",CBR; W9
+MangaOwl,manga-comics,UP,2026-11-08,"Listed as active in 2026 roundups; no 2026 enforcement action found specifically; current live status UNVERIFIED",W9
+Mangago,manga-comics,UP,2026-11-08,"Listed as active in 2026 roundups; no 2026 enforcement action found specifically; current live status UNVERIFIED",W9
+MangaHere,manga-comics,UP,2026-11-08,"Listed as active in 2026 roundups; no 2026 enforcement action found specifically; current live status UNVERIFIED",W9
+MangaFreak,manga-comics,UP,2026-11-08,"Listed as active in 2026 roundups; no 2026 enforcement action found specifically; current live status UNVERIFIED",W9
+MangaBuddy,manga-comics,UP,2026-11-08,"Listed active in 2026 roundups (~12,000 series); rotates domains under DMCA pressure; current live status UNVERIFIED",W9
+ComicK,manga-comics,UP,2026-11-08,"Listed active in 2026 roundups; noted fastest for new chapters; current live status UNVERIFIED; NOT the same site as dead Comick.io - similar name, different site",W9
+Japscan,manga-comics,UNKNOWN,2026-11-08,"Blocked in France Jul 2025 (13,000 titles); status elsewhere UNVERIFIED",W9
+ReadComicOnline,manga-comics,DEAD,2026-11-08,"Closest thing to a comprehensive English comics archive; domain resolves to nothing since ~May 2026; no shutdown announcement, seizure notice, or operator statement - cause officially unknown",FandomPulse; W9
+Batcave / ReadAllComics,manga-comics,UNKNOWN,2026-11-08,"Social posts Oct 20-21 2026 show MySQL errors/timeouts; users mourning a wave of comic-site deaths; no reputable outlet confirmed a coordinated takedown - UNVERIFIED",W9
+Tachiyomi,manga-comics,UNKNOWN,2026-11-08,"Standard Android manga reader app aggregating sources; one 2026 report claims Kakao legal action forced it to shut down - UNVERIFIED, single source; reader app, not a host",W9
+Paperback,manga-comics,UP,2026-11-08,"Standard iOS manga reader app aggregating sources; still named as standard in 2026 guides; reader app, not a host",W9
+ZzzFun,manga-comics,DEAD,2026-11-08,"Anime/manga piracy site + app; operator arrested Feb 11 2025 in China; sentenced Nov 18 2025: 1 year prison + RMB 35,000 fine; case began May 2024 on CODA complaint",Piracy Monitor; W15
+Anna's Archive,ebooks-audiobooks,UP,2026-11-08,"Shadow-library meta-search (~72M books, ~240M papers); UP on rotating domains; $322M RIAA/Spotify default judgment Apr 14 2026 + $19.5M publishers judgment May 19 2026; traffic grew 28% to ~41M/mo despite enforcement",TorrentFreak; Good e-Reader; W10; W16
+Z-Library,ebooks-audiobooks,UP,2026-11-08,"World's largest ebook library; UP in fragmented form (rotating mirrors + Tor); founders escaped house arrest, at large as of Jul 2026; Oct 30 2026 Dutch court ordered KPN to block it (dynamic order)",TorrentFreak; Wikipedia; W10; W14
+Library Genesis (LibGen),ebooks-audiobooks,UP,2026-11-08,"Shadow library (~5M books, ~86M articles); UP but unstable via mirrors; $30M US default judgment Sep 2024; core evidence in Anthropic $1.5B AI-training settlement",W10
+OceanofPDF,ebooks-audiobooks,DEAD,2026-11-08,"Direct-download ebook site; original taken offline Aug 2018; resurfaced under new domains; went dark Jul 4 2026 weekend and never returned; CONFLICT: TorrentFreak Nov 2 2026 Dutch block order still names oceanofpdf.com - treat as down/unreliable",Durofy; TorrentFreak; W10
+Sci-Hub,ebooks-audiobooks,UP,2026-11-08,"Academic papers only (~85M+ articles); UP via mirrors per 2026 roundups; no 2026 seizure reported; current domain status UNVERIFIED",W10
+PDF Drive,ebooks-audiobooks,UP,2026-11-08,"Search engine for free PDFs (~43M books claimed); UP per 2026 roundups; legal status mixed/gray; no major 2026 enforcement action found - UNVERIFIED",W10
+AudioBook Bay,ebooks-audiobooks,UP,2026-11-08,"Top dedicated audiobook torrent site (10,000+ titles); UP, domain-shifting (.nl to .se to .fi to .is to .lu per Oct 2026 forum); blocked in many countries; no 2026 seizure found",W10
+MyAnonamouse (MAM),ebooks-audiobooks,UP,2026-11-08,"Invite-only private tracker for ebooks/audiobooks (~360,000 torrents); UP - active Sep 2026, uptime monitor 96.26%; interview-based entry, no invite needed",W6; W10
+PiLiMi,ebooks-audiobooks,UNKNOWN,2026-11-08,"Named only as a LibGen-associated dataset in the Anthropic AI-training settlement; no standalone status reported",W10
+WeLib,ebooks-audiobooks,UNKNOWN,2026-11-08,"Shadow library; 13 publishers seek $19.5M default judgment (motion filed Oct 12-14 2026, pending before Judge Marrero); allegedly copied Anna's Archive code and collection; site status not reported",TorrentFreak; W16
+YTS,public-torrent,UP,2026-11-08,"Top torrent site 2026 by traffic (~68M visits/mo); UP but unstable; domain chain .mx (dead Nov 2025) to .lt to .bz to .gg (summer 2026); 28 domains tested Nov 2 2026: 7 official, 14 copycats, 7 dead/blocked",TorrentFreak; NAT Checker; W5
+1337x,public-torrent,UP,2026-11-08,"General tracker (~32M visits/mo); UP; sustained DDoS 2025-2026; temporarily offline late Sep 2026 after missile strikes damaged Ukrainian data-center infrastructure; back online by Oct 1 2026",TorrentFreak; TroyPoint; W5; W11
+NYAA,public-torrent,UP,2026-11-08,"Anime/East Asian media tracker (~42M visits/mo); UP; no 2026 seizure/downtime reported; W3 notes facing increasing legal scrutiny, no 2026 shutdown confirmed",TorrentFreak; W3; W5
+The Pirate Bay,public-torrent,UP,2026-11-08,"Largest/oldest general index (~4M torrents, founded 2003); UP; domain rotates; ISP-blocked in ~28 countries; no 2026 seizure of main domain reported",TorrentFreak; W5; W11
+FitGirl Repacks,public-torrent,UP,2026-11-08,"PC game repacker, most-recommended name on 2026 game torrent lists; UP as of Oct 2026; ESA notorious-markets list 2024/2025/Oct 2026 (~41.77M visits Aug 2026); ISP-blocked in Germany, Spain, Italy; other domains using the name are fakes, some malware",TorrentFreak; ESA; W5; W11
+EXT.to,public-torrent,UP,2026-11-08,"General magnet-only index (~8M visits/mo, growing); UP; biggest newcomer to TorrentFreak top 10 in 2026; picked up users after TorrentGalaxy went offline",TorrentFreak; W5
+EZTV,public-torrent,UP,2026-11-08,"TV-show torrents (~150K torrents); UP; ISP-blocked in UK/Australia",TorrentFreak; W5
+LimeTorrents,public-torrent,UP,2026-11-08,"General database (10M+ torrents claimed); UP; banned in France, UK, Australia; many fake mirrors; UNVERIFIED whether TorrentFreak ranks it #8 or #9 (article contradicts itself)",TorrentFreak; W5
+RARGB,public-torrent,MIRROR,2026-11-08,"General index trading on the RARBG name; UP as a clone, NOT the original; every site calling itself RARBG/RARGB today has nothing to do with the original per VPNAleert",VPNAleert; W5
+RARBG,public-torrent,DEAD,2026-11-08,"Original shut down permanently May 31 2023 (health/infrastructure, not a seizure); team said there are no official mirrors",VPNAleert; W5; W11
+TorrentGalaxy,public-torrent,DEAD,2026-11-08,"Sold summer 2024, repeated outages, offline since late Feb 2025; any live TorrentGalaxy is a copycat",VPNAleert; W5
+Torrentz2,public-torrent,DEAD,2026-11-08,"Shut down; VPNAleert removed it from its working list in 2026 and lists namesakes as clones",VPNAleert; W5
+ETTV,public-torrent,DEAD,2026-11-08,"Shut down; VPNAleert removed it from its working list in 2026 and lists namesakes as clones",VPNAleert; W5
+Kickass Torrents,public-torrent,DEAD,2026-11-08,"Long dead; only clones remain per multiple 2026 roundups",W5
+RuTracker,public-torrent,UP,2026-11-08,"Large Russian-language forum tracker; UP; named best for music in TroyPoint 2026 roundup; ~95M monthly visits claimed; ESA says it complied with only 3% of takedown notices",TroyPoint; ESA; W5; W11
+NordicQuality,public-torrent,UNKNOWN,2026-11-08,"Tracker affected by Sep 2026 missile strikes on Ukrainian data-center infrastructure alongside 1337x; no standalone status reported",W5
+Zooqle,public-torrent,DEAD,2026-11-08,"CONFLICT: W5 reports shut down, removed from VPNAleert working list 2026, namesakes are clones; W10 groups it with 1337x/TPB/LimeTorrents as UP via proxies/mirrors - W5's specific shutdown report is the stronger claim",VPNAleert; W5; W10
+PassThePopcorn (PTP),private-tracker,UP,2026-11-08,"Elite invite-only movie tracker; UP; named in Dec 2025 federal lawsuit (plaintiff appears to be an impostor; suit dropped ~Sep 2026); tracker itself still operating",TorrentFreak; W6
+BroadcastTheNet (BTN),private-tracker,UP,2026-11-08,"Elite invite-only TV tracker; UP; same Dec 2025 lawsuit as PTP; still operating",TorrentFreak; W6
+HDBits (HDB),private-tracker,UP,2026-11-08,"Elite HD movies/TV tracker, hardest to enter; UP; Sep 20 2026 screenshot of browse page confirms activity; named in Dec 2025 lawsuit",TorrentFreak; W6
+Redacted (RED),private-tracker,UP,2026-11-08,"Elite music tracker; UP; IRC-interview entry; invite forums are the main recruitment route into higher-tier trackers",W6
+GazelleGames (GGn),private-tracker,UNKNOWN,2026-11-08,"Largest private games tracker; CONFLICT: uptime monitor logged it down Feb 10 2026 with repeated outages, but Prowlarr still lists it as supported indexer as of Nov 8 2026 - status UNVERIFIED/intermittent",W6
+Bibliotik (BiB),private-tracker,UP,2026-11-08,"Elite ebooks + audiobooks tracker; UP per current guides; invite-only, very strict ratio; named in Dec 2025 lawsuit",W6
+Karagarga (KG),private-tracker,UP,2026-11-08,"Old/rare/art-house movie tracker; UP; invite-only; named in Dec 2025 lawsuit",TorrentFreak; W6
+Beyond-HD (BHD),private-tracker,UP,2026-11-08,"HD movies/TV tracker; UP; invite-only; named in Dec 2025 lawsuit",TorrentFreak; W6
+AnimeBytes (AB),private-tracker,UNKNOWN,2026-11-08,"Tier-1 anime tracker; listed in current guides but no 2026-dated status confirmation found - UNVERIFIED",W6
+IPTorrents (IPT),private-tracker,UP,2026-11-08,"General tracker; UP; pay-to-join (unusual); reputation shady / IPT mafia in community guides; blocked in UK and Australia",W6
+TorrentLeech (TL),private-tracker,UP,2026-11-08,"General tracker, one of the largest; UP - uptime monitor 100%; invite-only, opens registration a few times a year",W6
+AlphaRatio (AR),private-tracker,UP,2026-11-08,"General tracker, scene releases; UP per current guides; invite-only",W6
+TorrentBD,private-tracker,UP,2026-11-08,"General Bangladeshi tracker; UP; free-invite promotions circulating Jul 2026; details UNVERIFIED beyond social posts",W6
+Zamunda,private-tracker,SEIZED,2026-11-08,"Bulgarian general tracker; SEIZED Jan 30 2026 in joint US-Bulgarian operation (DOJ, HSI, Bulgarian GDCOC); 30 locations searched, 4 arrested; DOJ seizure banners still on domains",TorrentFreak; US DOJ; W6
+Zelka,private-tracker,SEIZED,2026-11-08,"Bulgarian general tracker; SEIZED Jan 30 2026 in same joint US-Bulgarian operation as Zamunda (44 sites total)",TorrentFreak; US DOJ; W6
+ArenaBG,private-tracker,SEIZED,2026-11-08,"Bulgarian general tracker; SEIZED Jan 30 2026 in same joint US-Bulgarian operation as Zamunda",TorrentFreak; US DOJ; W6
+Gay-Torrents,private-tracker,DEAD,2026-11-08,"Adult private tracker (146,000+ registered); DEAD - went offline early May 2026 after FlavaWorks sued operator + 325 users; domain DNS records deleted; FlavaWorks later won subpoenas to unmask 39 users",TorrentFreak; W6
+GayTorrent.ru,private-tracker,UNKNOWN,2026-11-08,"Adult private tracker; sued by FlavaWorks Mar 2026 (47 users named); case still pending per May 2026 reporting; no shutdown confirmation found",TorrentFreak; W6
+FileList (FL),private-tracker,DEAD,2026-11-08,"Romanian general tracker; DEAD - shut down Oct 2023 after 16 years (voluntary closure, not a seizure); still appears in some current guides as a stale listing",TorrentFreak; W6
+32pag.es,private-tracker,DEAD,2026-11-08,"Comics tracker; listed dead in guides; no 2026-dated reporting found",W6
+PixelCove,private-tracker,UNKNOWN,2026-11-08,"Named in guides only; no 2026-dated reporting found",W6
+LosslessClub,private-tracker,UNKNOWN,2026-11-08,"Named in guides only; no 2026-dated reporting found",W6
+Rapidgator,direct-download,UP,2026-11-08,"Biggest DDL premium file host (314M+ visits per RIAA 2025 submission); UP; on USTR Notorious Markets list every year since 2014; ISP-blocked in UK and Australia; no new 2026 enforcement action beyond RIAA re-listing",TorrentFreak; RIAA; W7
+Nitroflare,direct-download,UP,2026-11-08,"Premium file host, long-time DDL staple; UP (debrid dashboards online Nov 8 2026); described as offshore and deliberately uncooperative with notices",RIAA; TorrentFreak; W7
+Mega,direct-download,UP,2026-11-08,"Cloud storage (338M users, 208B files); UP; NEW on RIAA 2026 notorious-markets submission; RIAA complaint is re-uploads after takedown; Mega says ~3.9M takedowns processed, 5,627 accounts suspended",TorrentFreak; RIAA; W7
+1fichier,direct-download,UP,2026-11-08,"French file host, very popular in France; UP (debrid dashboards live Nov 2026); on USTR Notorious Markets list since 2017",Wikipedia; W7
+Uploaded.net,direct-download,UP,2026-11-08,"European premium locker; UP - UNVERIFIED beyond debrid listings (listed supported/active by multi-host services updated Nov 7 2026); no 2026 enforcement reporting found",W7
+Turbobit,direct-download,UP,2026-11-08,"Premium locker, DDL staple; UP (debrid online Nov 8 2026)",W7
+FileFactory,direct-download,UP,2026-11-08,"Older premium locker; UP with a caveat - one debrid dashboard showed its gateway offline since Nov 7 2026 23:51, read as a debrid-side outage not a host shutdown; other dashboards list it online - UNVERIFIED",W7
+MediaFire,direct-download,UP,2026-11-08,"Mainstream file host widely used for pirated distribution; UP",W7
+Keep2Share,direct-download,UP,2026-11-08,"Cyberlocker with 8.5M+ infringements found by BranditScan; UP (debrid online Nov 8 2026)",BranditScan; W7
+Tezfiles,direct-download,UP,2026-11-08,"Cyberlocker, 1.4M+ infringements found; UP",BranditScan; W7
+Ddownload,direct-download,UP,2026-11-08,"File host, NEW on RIAA 2026 notorious list; UP",TorrentFreak; RIAA; W7
+Uploadgig,direct-download,UP,2026-11-08,"Premium locker, DDL staple; UP (debrid shows unlimited quota, online Nov 8 2026)",W7
+Krakenfiles,direct-download,UP,2026-11-08,"Cyberlocker flagged for pre-release music leaks; UP but uploads disabled in 2026 per RIAA; still listed",TorrentFreak; RIAA; W7
+Gofile,direct-download,UP,2026-11-08,"NEW RIAA 2026 flag, tied to pre-release music piracy (links shared on leak forums); UP",TorrentFreak; RIAA; W7
+Sendgb,direct-download,UP,2026-11-08,"NEW RIAA 2026 flag, tied to pre-release music piracy; UP",TorrentFreak; RIAA; W7
+Pixeldrain,direct-download,UP,2026-11-08,"NEW RIAA 2026 flag, tied to pre-release music piracy; UP",TorrentFreak; RIAA; W7
+Imgur.gg,direct-download,UP,2026-11-08,"NEW RIAA 2026 flag, tied to pre-release music piracy; UP",TorrentFreak; RIAA; W7
+Chomikuj.pl,direct-download,UP,2026-11-08,"Polish file host since 2013, known for rapid re-upload of removed content; UP",RIAA; W7
+Uptobox,direct-download,SEIZED,2026-11-08,"Servers seized Sep 2023 by French authorities (ACE operation, France + UAE) after court order by Disney, Amazon, Apple, Netflix, Paramount, Warner Bros.; 9 domains blocked Aug 2024; fake mirrors (Uptobox.eu, Uptostream.eu) are unaffiliated scam/phishing sites",TorrentFreak; W7
+Share-Online.biz,direct-download,DEAD,2026-11-08,"Germany's largest file host; raided Oct 2019 (servers seized, 1M+ users); operator got 2-year suspended prison sentence Nov 2025 (Aachen court), rejecting the neutral-host defense",TorrentFreak; W7
+Megaupload,direct-download,DEAD,2026-11-08,"DOJ takedown Jan 2012, $175M+ alleged criminal proceeds; historical anchor case for cyberlocker enforcement",W7
+DDLValley,direct-download,UP,2026-11-08,"English-language DDL index (movies, TV, games, apps, eBooks, music); UP but domain-hopping; old .eu domain tested down May 2026; exact live domain UNVERIFIED",W7
+SoftArchive,direct-download,UP,2026-11-08,"Scene-release site, described as oldest and most reliable DDL resource; UP",W7
+ReleaseBB,direct-download,UP,2026-11-08,"Daily scene-release index, ~14 years old; UP",W7
+ScnLog,direct-download,UP,2026-11-08,"Scene-release index with music focus (lossless audio); RIAA notes its music is hosted on Nitroflare and Ddownload; UP",RIAA; W7
+Scene-rls,direct-download,UP,2026-11-08,"Scene-release index; UP",W7
+RapidMoviez,direct-download,UP,2026-11-08,"DDL link site for movies/TV releases; UP (listed in current DDL indexes)",W7
+TwoDDL (2DDL),direct-download,UP,2026-11-08,"Direct-download link index; UP",W7
+AvaxHome,direct-download,UP,2026-11-08,"DDL site: eBooks, TV, movies, magazines, software, comics, games; UP",W7
+Warez-BB,direct-download,UP,2026-11-08,"Long-running warez forum/board with VIP upload collections; operates across multiple mirror domains; UP",W7
+Megaddl,direct-download,UP,2026-11-08,"DDL index, ~8 years old, ~205K visitors; UP",W7
+SceneSource,direct-download,UP,2026-11-08,"WordPress-based scene-release news site; UP",W7
+Leaked.cx,direct-download,UNKNOWN,2026-11-08,"Leak forum named by RIAA as where Gofile/Sendgb/Pixeldrain/Imgur.gg links are shared; no standalone status reported",RIAA; W7
+German DDL boards (DDL-Warez; Boerse; Movie-Blog; MyGully),direct-download,UNKNOWN,2026-11-08,"German DDL boards that promoted Share-Online links; no standalone status reported",TorrentFreak; W7
+NSE (News-Service Europe),usenet,DEAD,2026-11-08,"Usenet provider, defunct since 2011 shutdown; 16-year battle with Dutch anti-piracy group BREIN ended in secret settlement Nov 2025",TorrentFreak; W16
+Xtreme HD IPTV,pirate-iptv,UP,2026-11-08,"Most-recommended pirate IPTV sub in 2026 roundups; 20,000+ channels, 60,000+ VOD claimed; ~$15/mo, ~$99/yr per review sites - prices UNVERIFIED; no takedown reported in 2026",W8
+Apollo Group TV,pirate-iptv,UP,2026-11-08,"Long-running pirate IPTV sub, 18,000-22,000 channels claimed, sports-heavy; MPA 2026 notorious list; prices ~$15-25/mo conflict across review sites - UNVERIFIED; no 2026 seizure reported",MPA 2026 filing; W8
+Gogo IPTV,pirate-iptv,UP,2026-11-08,"MPA lists it as a PRIORITY illegal IPTV service in 2026 USTR submission alongside MagisTV/FlujoTV; little public detail on scale or pricing - UNVERIFIED beyond the MPA listing",MPA 2026 filing; W8
+Atlas Pro,pirate-iptv,UP,2026-11-08,"Named as additional illegal IPTV service in MPA 2026 USTR submission (new to list in 2025); ONTV ships M3U/Xtream Codes only; no individual 2026 enforcement action found - scale and pricing UNVERIFIED",MPA 2026 filing; W8
+GenIPTV,pirate-iptv,UP,2026-11-08,"Named as additional illegal IPTV service in MPA 2026 USTR submission; no individual 2026 enforcement action found - scale and pricing UNVERIFIED",MPA 2026 filing; W8
+TVExpress,pirate-iptv,UP,2026-11-08,"Named as additional illegal IPTV service in MPA 2026 USTR submission; no individual 2026 enforcement action found - scale and pricing UNVERIFIED",MPA 2026 filing; W8
+Spider Receiver,pirate-iptv,UP,2026-11-08,"Named as additional illegal IPTV service in MPA 2026 USTR submission; no individual 2026 enforcement action found - scale and pricing UNVERIFIED",MPA 2026 filing; W8
+Thunder TV,pirate-iptv,SEIZED,2026-11-08,"Spanish-language pirate IPTV (TelevisaUnivision content incl. 2026 World Cup); TelevisaUnivision sued Jun 2026, operators defaulted; Sep 4 2026 motion seeks $32.7M default judgment - outcome UNVERIFIED; self-expanding injunction Jul 2026",TorrentFreak; W8; W16
+Sunset TV,pirate-iptv,SEIZED,2026-11-08,"Same TelevisaUnivision suit as Thunder TV; $32.7M default judgment motion pending Sep 2026 - outcome UNVERIFIED",TorrentFreak; W8; W16
+Tele Latino,pirate-iptv,SEIZED,2026-11-08,"Same TelevisaUnivision suit as Thunder TV; $32.7M default judgment motion pending Sep 2026 - outcome UNVERIFIED",TorrentFreak; W8; W16
+Pop TV,pirate-iptv,SEIZED,2026-11-08,"Same TelevisaUnivision suit; operators still unidentified John Does; $32.7M motion pending - outcome UNVERIFIED",TorrentFreak; W8; W16
+Kaelus TV,pirate-iptv,SEIZED,2026-11-08,"Same TelevisaUnivision suit; operators still unidentified John Does; $32.7M motion pending - outcome UNVERIFIED",TorrentFreak; W8; W16
+IPTVItalia,pirate-iptv,SEIZED,2026-11-08,"Italian pirate IPTV platform (Sky, DAZN, Mediaset, Netflix, Prime Video, Paramount, Disney+); seized Jan 30 2026 in Operation Switch Off - 29 raids in 11 cities, 31 suspects, ~250 resellers dismantled, 125,000+ users disconnected",Broadband TV News; W8
+migliorIPTV,pirate-iptv,SEIZED,2026-11-08,"Italian pirate IPTV platform; seized Jan 30 2026 in Operation Switch Off (same operation as IPTVItalia)",Broadband TV News; W8
+DarkTV,pirate-iptv,SEIZED,2026-11-08,"Italian pirate IPTV platform; seized Jan 30 2026 in Operation Switch Off (same operation as IPTVItalia)",Broadband TV News; W8
+NordicPlay,pirate-iptv,DEAD,2026-11-08,"High-profile Swedish IPTV reseller operation; busted Jan 2026; main suspect charged with gross accounting fraud (~35M SEK revenue); police recovered 20,000+ contact details, 4,886 subscribers linked to payments",TorrentFreak; W8
+INWIPTV,pirate-iptv,DEAD,2026-11-08,"Thailand's most notorious illegal IPTV service (since 2012; formerly FWIPTV); shut down Sep 21 2025 in Operation DEV Shutdown (Thai DSI + ACE, 6 locations raided); had already been shut down once Feb 2021 and came back - mirror/return risk",TorrentFreak; W8
+Strong 4K OTT,pirate-iptv,UNKNOWN,2026-11-08,"Appears in affiliate-style 2026 best-IPTV roundups (~$5-6/mo annual); licensing status NOT established in reporting - do NOT treat roundup presence as proof of illegality",W8
+Nigma TV,pirate-iptv,UNKNOWN,2026-11-08,"Appears in affiliate-style 2026 best-IPTV roundups; licensing status NOT established in reporting",W8
+CalmaHUB,pirate-iptv,UNKNOWN,2026-11-08,"Appears in affiliate-style 2026 best-IPTV roundups; licensing status NOT established in reporting",W8
+IPTV Trends,pirate-iptv,UNKNOWN,2026-11-08,"Appears in affiliate-style 2026 best-IPTV roundups; licensing status NOT established in reporting",W8
+Mom IPTV,pirate-iptv,UNKNOWN,2026-11-08,"Appears in affiliate-style 2026 best-IPTV roundups; licensing status NOT established in reporting",W8
+Honey Bee IPTV,pirate-iptv,UNKNOWN,2026-11-08,"Appears in affiliate-style 2026 best-IPTV roundups; licensing status NOT established in reporting",W8
+Tivistation,pirate-iptv,UNKNOWN,2026-11-08,"Appears in affiliate-style 2026 best-IPTV roundups; licensing status NOT established in reporting",W8
+Layerseven,pirate-iptv,UNKNOWN,2026-11-08,"Appears in affiliate-style 2026 best-IPTV roundups; licensing status NOT established in reporting",W8
+StreamHut,pirate-iptv,UNKNOWN,2026-11-08,"Appears in affiliate-style 2026 best-IPTV roundups; licensing status NOT established in reporting",W8
+Xtrix TV,pirate-iptv,UNKNOWN,2026-11-08,"Appears in affiliate-style 2026 best-IPTV roundups; licensing status NOT established in reporting",W8
+EVESTV,pirate-iptv,UNKNOWN,2026-11-08,"Appears in affiliate-style 2026 best-IPTV roundups; licensing status NOT established in reporting",W8
+Pilot IPTV,pirate-iptv,UNKNOWN,2026-11-08,"Appears in affiliate-style 2026 best-IPTV roundups; licensing status NOT established in reporting",W8
+Dynasty IPTV,pirate-iptv,UNKNOWN,2026-11-08,"Appears in affiliate-style 2026 best-IPTV roundups; licensing status NOT established in reporting",W8
+Super Pro IPTV,pirate-iptv,UNKNOWN,2026-11-08,"Appears in affiliate-style 2026 best-IPTV roundups; licensing status NOT established in reporting",W8
+Budget IPTV Express,pirate-iptv,UNKNOWN,2026-11-08,"Appears in affiliate-style 2026 best-IPTV roundups (~$4.99/mo); licensing status NOT established in reporting",W8
+MB Streams,pirate-iptv,DEAD,2026-11-08,"UK IPTV operation; operator Michael Barrow sentenced Jun 1 2026: 3 years 2 months, ~2,000 customers, 200,000+ GBP revenue; kept selling pre-loaded Fire TV sticks after 2021 cease-and-desist",W15
+Ozzy Streams,pirate-iptv,DEAD,2026-11-08,"UK IPTV operation; operator Craig Austin sentenced Aug 19 2026: 32 months suspended, 150 hrs unpaid work; 205,000 GBP from 1,116 customers Jan 2020-Aug 2025",Crown Prosecution Service; W15
+King Kong Media,pirate-iptv,DEAD,2026-11-08,"Ireland-based illegal streaming service; operator Ciaran Donovan sentenced Jul 2024: 3 years 4 months, final 2 years suspended",FACT; W15
+Bilutv (Tvhayh; Hiss.pro),pirate-iptv,DEAD,2026-11-08,"Vietnamese streaming sites (Bilutv.net, Tvhayh.org, Hiss.pro); operators convicted 2024 (second Vietnamese criminal copyright case) with suspended sentences; names and exact terms UNVERIFIED",USTR; W15
+IPTV Is Easy,pirate-iptv,UNKNOWN,2026-11-08,"Operator David Dunbar ordered Jul 2025 to pay Sky 480,000 EUR damages + 30,000 EUR contempt fine (civil, Ireland); site status not reported",W15
+Ex Pat TV / My TV Abroad,pirate-iptv,UNKNOWN,2026-11-08,"UK case: 68-year-old jailed 6.5 years, 980,812 GBP over 3 years, 80 servers seized - TorrentFreak found the 2026 press release recycled a 2016 raid (Ex Pat TV / My TV Abroad), so date this story carefully",TorrentFreak; W8
+Lemo TV / Kemo IPTV,pirate-iptv,UP,2026-11-08,"DISH sought $28.65M default judgment Mar 2026; DENIED Sep/Oct 2026 (service not proven); DISH can refile; one defendant faces criminal prosecution in Dubai; Kemo storefront was still selling subscriptions at time of reporting",TorrentFreak; W16
+1 Dollar IPTV,pirate-iptv,UNKNOWN,2026-11-08,"US reseller named in DISH v. Lemo TV / Kemo IPTV suit; no standalone status reported",TorrentFreak; W16
+City Lights Entertainment (CLVPN),pirate-iptv,DEAD,2026-11-08,"IPTV service (~450,000 users, alleged $27M/yr revenue); Richard Moy settled with DISH/Sling for $44.5M Oct 24 2026 plus permanent injunction; one of only two cases where defendant engaged and paid",TorrentFreak; W16
+Outer Limits IPTV,pirate-iptv,DEAD,2026-11-08,"4,000+ channels, 13,000+ movies, 3,000+ series; $15M default judgment Aug 4 2025 + $206,293 fees; domains transferred to plaintiffs; operator had relaunched in 2021 after a 2020 cease-and-desist",TorrentFreak; W15; W16; W20
+Beast Mode Live (GreenWing Media; Viking Media; BTV; Von Wik; Shrugs; Zing),pirate-iptv,DEAD,2026-11-08,"IPTV operation (GreenWing Media, Viking Media, BTV, Von Wik, Shrugs, Zing); $9M default judgment Jun 11 2026; domains transferred to ACE; Vonwik.com front stayed online after service per reporting",TorrentFreak; W16; W20
+Streaming TV Now (TV Nitro; Instant IPTV; Cash App IPTV; Live TV Resellers),pirate-iptv,DEAD,2026-11-08,"IPTV operation (TV Nitro, Instant IPTV, Cash App IPTV, Live TV Resellers); $18.75M default judgment Mar 11 2026; 8 domains transferred to studios; domains already offline",TorrentFreak; W16; W20
+Tickbox TV,pirate-iptv,DEAD,2026-11-08,"Kodi-box seller; ACE's first major win - $25M stipulated judgment + permanent injunction (2018)",TorrentFreak; W20
+Photocall,pirate-iptv,DEAD,2026-11-08,"Spanish pirate service (26M+ visits/yr, 1,127 channels, 60 countries); shut down immediately under ACE + DAZN settlement Nov 22 2025; all domains redirect to ACE Watch Legally page",The Desk; W16
+Flawless TV (Shared VPS; Optimal),pirate-iptv,DEAD,2026-11-08,"UK IPTV (Flawless / Shared VPS / Optimal); 7M+ GBP in 5 years, 50,000+ customers; five men jailed 30+ years total (2023, ringleader 11 years); May 2026 confiscation: 3.75M GBP ordered",FACT; W15; W20
+Nitro TV,pirate-iptv,DEAD,2026-11-08,"US IPTV service; generated at least $7M from subscriptions; $51.6M damages judgment Nov 18 2022 ($150K x 344 works)",TorrentFreak; W20
+Helix IPTV (IPTV Hosting; Black and White TV),pirate-iptv,DEAD,2026-11-08,"UK IPTV (IPTV Hosting / Helix Hosting / Black and White TV); owner Stephen Woodward made ~100,000 GBP/month at peak, ~1M GBP total; sentenced Jul 11 2025: 3 years 1 month; 1.1M GBP restrained across 15 bank accounts + 21 crypto wallets; sites now dead",City of London Police; W15; W20
+BestBuyIPTV,pirate-iptv,DEAD,2026-11-08,"Vietnam's first-ever criminal copyright conviction (Apr 19 2024): 30-month suspended sentence, 60-month probation, ~$3,927 fine + ~$24,155 profit confiscated; charged ~$9/month to thousands of subscribers",Legal500; W15
+Smoothstreams,pirate-iptv,DEAD,2026-11-08,"Canadian IPTV platform; operator Antonio Macciacchera + son Marshall sentenced ~Aug 28 2025: 5 years prison for contempt of court; no separate shutdown report in sources - status inferred from case outcome, flag as UNVERIFIED",W15
+UltraIPTV,pirate-iptv,DEAD,2026-11-08,"Chilean pirate IPTV network since 2018 (~400,000 clients); busted Oct 2026 - 16 arrested, 150+ bank accounts traced, 4-4.5B pesos (~$4M+) in transactions",W2; W8
+MegaIPTV,pirate-iptv,DEAD,2026-11-08,"Chilean pirate IPTV network (MegaIPTV Latinoamerica); busted Oct 2026 in same operation as UltraIPTV - 16 arrested",W2; W8
+MagisTV / FlujoTV,pirate-iptv,UP,2026-11-08,"Latin America's biggest pirate IPTV brand; MPA priority target, many millions of active users; domains seized in ACE/MPA actions Oct 2026; Chile Subtel blocked 1,954 URLs since Jun 2026; copycat/clone domains keep appearing",TorrentFreak; MPA 2026 filing; W2; W8
+XuperTV,pirate-iptv,MIRROR,2026-11-08,"MagisTV rebrand per reporting; named in Chile Subtel blocklist and TelevisaUnivision suit paperwork (~600 domains across 12 brands); XUPER TV APKs linked to Magis TV lineage flagged by ESET/Incibe as malware risk",TorrentFreak; W8; W15; W18
+Stremio,modded-app,UP,2026-11-08,"Media-center hub, consensus #1 pick 2026; legal software itself, piracy comes from third-party add-ons; ACTIVE, in active development; no enforcement against the app itself",TROYPOINT; W12
+CloudStream,modded-app,UP,2026-11-08,"Free open-source streaming app (zero ads, no login); works via community repositories/plugins; ACTIVE, in active development (v4.8.0 Sep 2026); no enforcement against the app itself",TROYPOINT; W12
+Syncler,modded-app,UP,2026-11-08,"On-demand movies/TV; requires outside provider packages + debrid service; ACTIVE, in active development (verified working Aug 2026)",TROYPOINT; W12
+Nuvio,modded-app,UP,2026-11-08,"Stremio-style hub with add-ons, profiles, cloud sync, Trakt, debrid support; open-source; ACTIVE, actively maintained (beta updates Jul 2026); TROYPOINT top 5 Nov 8 2026",TROYPOINT; W12
+FilmPlus,modded-app,UP,2026-11-08,"Free on-demand scraper app (Cinema HD replacement); ACTIVE as of Oct-Nov 2026 (v2.5.2); Amazon blacklisted it on Fire TV",W12
+BeeTV / CinePlus,modded-app,UP,2026-11-08,"Free on-demand scraper; rebranded to CinePlus (v1.0.6); ACTIVE as of Sep 1 2026 but declining - dead links, heavy ads; Amazon blacklisted it",FireStickHacks; W12
+TeaTV,modded-app,UP,2026-11-08,"Free on-demand movies/TV with offline downloads; reported working in 2026 roundups (v11.1.8r Nov 2026); Amazon blacklisted it on Fire TV",FireStickHacks; W12
+Nova TV,modded-app,UP,2026-11-08,"Free ad-free on-demand app; ACTIVE but unstable (Aug 2026); removed from Google Play, no official download source - copies circulate from third-party mirrors, UNVERIFIED which are genuine; Amazon blacklisted",W12
+MovieBox,modded-app,UP,2026-11-08,"On-demand movies/TV app; ACTIVE; MPA 2026 USTR filing lists 243M+ downloads from Palm Store alone (counter since passed 300M); no shutdown reported; Movie Box Pro v12.9 is a related but distinct build",MPA 2026 filing; TorrentFreak; W12
+Weyd,modded-app,UP,2026-11-08,"On-demand streaming app using proprietary provider packages; paid model; ACTIVE (v3.4.7 Nov 2026); no enforcement reported",TROYPOINT; W12
+Kodi,modded-app,UP,2026-11-08,"Open-source media center; piracy comes from third-party add-ons, not Kodi itself; software still updated but search interest falling and many add-ons abandoned; users migrating to Stremio/CloudStream",TROYPOINT; W12
+Viva TV,modded-app,UNKNOWN,2026-11-08,"Latest APK stopped fetching links recently per FireStickHacks; status UNVERIFIED as of Nov 2026; largely unaffected by Amazon blacklist",FireStickHacks; W12
+Flix Vision,modded-app,UNKNOWN,2026-11-08,"Blocked by Amazon Jun 2025, then up and running again per Sep 2026 reports; status UNVERIFIED",W12
+Cinema HD,modded-app,DEAD,2026-11-08,"Most-used sideloaded app for years; DEAD - discontinued by developers Sep 1 2026 (Support Terminated pop-up, No Links Found); fake infected APKs circulating after death",FireStickHacks; W12
+LiveNetTV,modded-app,SEIZED,2026-11-08,"Free IPTV app, a decade old; Istanbul police raided two Turkey-based operators Feb 2026; operators settled with ACE late Jun 2026, handed over 10 domains, public apology; domains redirect to ACE Watch Legally page",TorrentFreak; W12
+HDO Box,modded-app,DEAD,2026-11-08,"5,000+ titles; DEAD Sep 1 2026 - APKs install but stick at Initializing Player; downloads page marks it offline",FireStickHacks; W12
+OnStream,modded-app,DEAD,2026-11-08,"18,000+ films/TV; DOWN as of Sep-Nov 2026 per FireStickHacks; older v1.0.8 reportedly works if you skip in-app update - UNVERIFIED workaround",FireStickHacks; W12
+CyberFlix TV,modded-app,UNKNOWN,2026-11-08,"Long-running APK, now declining with performance issues and infected fake APKs circulating (BestDroidPlayer Oct 2026); no longer on working lists; not confirmed dead",BestDroidPlayer; W12
+ShowBox,modded-app,DEAD,2026-11-08,"Closed after coalition of independent studios sued distributors; Cloudflare and GoDaddy ordered to reveal operator identities; still referenced in Nov 2026 shutdown explainers",W12
+APKTime,modded-app,DEAD,2026-11-08,"Third-party app store for sideloaded APKs, a decade old; founders shut it down Jun 2026 and pointed users to TROYPOINT",TROYPOINT; W12
+IPTV Smarters Pro,modded-app,UNKNOWN,2026-11-08,"IPTV player removed from Google Play and Apple App Store Mar 2026 (JioStar takedown during ICC T20 World Cup; 36 apps, 26M+ downloads); installed copies keep working; APK-site copies unverified and a known malware vector",W12
+XCIPTV,modded-app,UNKNOWN,2026-11-08,"IPTV player removed from Google Play and Apple App Store Mar 2026 in same JioStar takedown as IPTV Smarters Pro; installed copies keep working",W12
+Televizo,modded-app,UNKNOWN,2026-11-08,"IPTV player removed from Google Play and Apple App Store Mar 2026 in same JioStar takedown; installed copies keep working",W12
+VU IPTV Player,modded-app,UNKNOWN,2026-11-08,"IPTV player removed from Google Play and Apple App Store Mar 2026 in same JioStar takedown; installed copies keep working",W12
+XTV Ultra,modded-app,UNKNOWN,2026-11-08,"IPTV player removed from Google Play and Apple App Store Mar 2026 in same JioStar takedown; installed copies keep working",W12
+TVmob,modded-app,UNKNOWN,2026-11-08,"On Amazon Fire TV system-level blacklist (Oct 2025) using ACE intelligence; no other status reported",W12
+Kodi add-ons (Bubbles; Gaia; XvBMC repos),modded-app,UNKNOWN,2026-11-08,"Popular Kodi add-ons hid cryptomining code (ESET report); ~4,700 devices infected, mining 62 Monero; publication date UNVERIFIED in secondary source",ESET; W18
+DODI Repacks,software-games,UP,2026-11-08,"Second major game repacker (faster installs, larger downloads than FitGirl); UP; ESA notorious-markets list; satisfied only 22% of link-blocking complaints; runs a backup domain",TorrentFreak; ESA; W11
+Skidrow & RELOADED,software-games,UP,2026-11-08,"Iconic scene cracking groups; release blog with magnet links; ranked #9 in TorrentFreak top torrent sites 2026; UP; no 2026 seizure reported",TorrentFreak; W11
+IGG Games,software-games,UP,2026-11-08,"Direct-download index of cracked PC games, daily updates; UP (screenshot Nov 2 2026); flagged by 5/92 security engines Nov 2026; multiple 2026 reviews report ransomware and password stealers in downloads",PCrisk; W11
+Ocean of Games,software-games,UP,2026-11-08,"Direct-download cracked PC games, long-running; UP but heavily reported as malware-laden in 2026 (trojans/keyloggers, crypto miners, Defender disabled per Trustpilot Apr-Jul 2026)",Trustpilot; W11
+Steamunlocked / SteamRIP,software-games,UP,2026-11-08,"Direct-download cracked Steam games; UP - UNVERIFIED, no fresh 2026 status check found, appears in current 2026 best-of lists",W11
+GOG Games,software-games,UP,2026-11-08,"GOG DRM-free repacks; UP per r/Piracy megathread (archived May 30 2025) and Nov 2026 forum discussion",W11
+ElAmigos,software-games,UP,2026-11-08,"Spanish-language repacks; UP per r/Piracy megathread and Nov 2026 forum discussion",W11
+Xatab,software-games,UP,2026-11-08,"Russian repacks; UP per r/Piracy megathread and Nov 2026 forum discussion",W11
+KaOsKrew,software-games,UP,2026-11-08,"Repack group; UP per r/Piracy megathread and Nov 2026 forum discussion",W11
+CS.RIN.RU,software-games,UP,2026-11-08,"Steam Underground, largest forum for game piracy; UP; removed all DenuvOwO hypervisor-bypass links and banned members after Sep 2026 Denuvo lawsuit",W11
+RG Mechanics,software-games,UP,2026-11-08,"Smaller repack/direct-download site; UP - UNVERIFIED individually, listed as active in 2026 guides",TechNadu; W11
+GamesDrive,software-games,UP,2026-11-08,"Smaller repack/direct-download site; UP - UNVERIFIED individually, listed as active in 2026 guides",TechNadu; W11
+AnkerGames,software-games,UP,2026-11-08,"Smaller repack/direct-download site; UP - UNVERIFIED individually, listed as active in 2026 guides",TechNadu; W11
+Atop Games,software-games,UP,2026-11-08,"Smaller repack/direct-download site; UP - UNVERIFIED individually, listed as active in 2026 guides",TechNadu; W11
+GetIntoPC,software-games,UP,2026-11-08,"Most-named cracked-software download site (Windows apps, Adobe/design tools); UP (screenshot Nov 5 2026); 2026 reviews allege injected malware - Jul 2026 reverse-engineer review claims ~80% of tested software had trojan/malware",PCrisk; Trustpilot; W11
+FileCR,software-games,UP,2026-11-08,"Long-running cracked-software index, registered 2015, ~12M monthly visits; UP; multiple user reports of malware/Trojans; Google Safe Browsing clean",WebVetted; W11
+IGetIntoPC,software-games,UP,2026-11-08,"Clone/lookalike of GetIntoPC; UP; ScamAdviser Trust Score 0 (Very Likely Unsafe); Gridinsoft classifies it as adware distributor",W11
+Kuyhaa,software-games,UP,2026-11-08,"Cracked software site (notably video editors / Adobe); UP - UNVERIFIED, named in 2026 reporting, no fresh status check found",W11
+DenuvOwO,software-games,DEAD,2026-11-08,"Hypervisor-based Denuvo bypass group, 60+ games cracked in 2026; DISBANDED ~Sep 27 2026 after Irdeto/Denuvo sued rival cracker voices38 (filed Sep 14 2026)",Tom's Hardware; W11
+voices38,software-games,UP,2026-11-08,"Independent Denuvo cracker; ACTIVE and under lawsuit (Irdeto/Denuvo filed Sep 14 2026, N.D. Cal., 26 games incl. Hogwarts Legacy); ESA asked USTR Oct 2026 to list him as notorious market; he posted everything will continue as normal",GameGPU; W11
+EMPRESS,software-games,DEAD,2026-11-08,"Most famous solo Denuvo cracker; RETIRED Dec 1 2025 (End of an Era), citing health and frustration with the community",CrackRelease; W11
+RUNE,software-games,UP,2026-11-08,"Crack group named in Sep 2026 reporting as still releasing after DenuvOwO disbandment; UNVERIFIED beyond that mention",W11
+CODEX,software-games,DEAD,2026-11-08,"Classic scene group; effectively gone from modern scene, no new releases in years, went quiet ~2022; UNVERIFIED - no 2026 reporting confirms a formal end date",W11
+CPY,software-games,DEAD,2026-11-08,"Classic scene group; effectively gone; last releases ~2020-2021",W11
+Yuzu,software-games,DEAD,2026-11-08,"Nintendo Switch emulator (Tropic Haze LLC, also Citra); settled with Nintendo Mar 4 2024: $2.4M + permanent injunction, domain transferred, all circumvention tools and keys destroyed, distribution ceased",Polygon; W16
+Ryujinx,software-games,DEAD,2026-11-08,"Nintendo Switch emulator; out-of-court deal killed it Oct 2024 per W16",W16
+NSw2u,software-games,SEIZED,2026-11-08,"Pirated Nintendo Switch game files; SEIZED Jul 10 2025 by FBI + Dutch FIOD (18 U.S.C. 2323 warrant); 3.2M illegal downloads in 3 months, ~$170M claimed losses; domains show FBI seizure banner; related domains mgnetu.com, nswdl.com, game-2u.com, bigngame.com, ps4pkg.com, ps5pkg.net also seized",TorrentFreak; W14
+Modded Hardware,software-games,SEIZED,2026-11-08,"Nintendo won $2M judgment Sep 5 2025 vs Ryan Daly (Modded Hardware); court authorized Nintendo to seize the website",W14
+r/Piracy,discovery-community,UP,2026-11-08,"Most-referenced source for pirate-site lists; UP; rules forbid direct links, piracy is a gateway topic; r/piracy mod removed 2026 post about IGetIntoPC as spam; largest piracy community on Reddit",W13
+FMHY,discovery-community,UP,2026-11-08,"Freemediaheckyeah - crowdsourced index of everything (streaming, anime, torrents, DDL, software); updated continuously by community; UP",W13
+r/AnimePiracy,discovery-community,UP,2026-11-08,"Reddit anime piracy community (Wiki + Mega Thread + 2026 best-of threads); UP",W13
+r/PiratedGames,discovery-community,UP,2026-11-08,"Reddit game piracy community (Mega Thread with FitGirl/DODI/Steamunlocked lists); UP",W13
+r/SwitchPirates,discovery-community,UP,2026-11-08,"Reddit Switch piracy community (stopped hosting Sigpatches link since Dec 2025, still links homebrew); UP",W13
+r/soccerstreams,discovery-community,DEAD,2026-11-08,"Reddit community of ~400,000; BANNED 2019; CONFLICT: one Nov 5 2026 article describes the shutdown as recent - date of the ban itself is 2019, the 2026 framing is UNVERIFIED",W4; W13
+r/nflstreams,discovery-community,DEAD,2026-11-08,"Reddit sports-streams community; BANNED 2019 alongside r/soccerstreams",W4; W13
+r/nbastreams,discovery-community,DEAD,2026-11-08,"Reddit sports-streams community; BANNED 2019 alongside r/soccerstreams",W4; W13
+r/fullmovies,discovery-community,DEAD,2026-11-08,"Reddit community; banned as part of Reddit's piracy crackdown",W13
+r/crackedsoftware,discovery-community,DEAD,2026-11-08,"Reddit community; banned as part of Reddit's piracy crackdown",W13
+r/iptvresellers,discovery-community,DEAD,2026-11-08,"Reddit community for IPTV resellers; banned by Reddit; resellers moved to Telegram/Discord",W8; W13
+c/piracy @ lemmy.dbzer0.com,discovery-community,UP,2026-11-08,"Lemmy community on dbzer0 instance; UP - UNVERIFIED, named in reporting only",W13
+c/piracy @ lemmy.ml,discovery-community,UP,2026-11-08,"Lemmy community on lemmy.ml instance; UP - UNVERIFIED, named in reporting only",W13
+c/Pirated_Games (lemmy.ml),discovery-community,UP,2026-11-08,"Lemmy games-piracy community; UP - UNVERIFIED, named in reporting only",W13
+FMHY community (lemmy.fmhy.ml),discovery-community,UP,2026-11-08,"Lemmy community for FMHY; UP - UNVERIFIED, named in reporting only",W13
+HDFull Discord server,discovery-community,DEAD,2026-11-08,"Discord server taken down for copyright infringement; not confirmed a coordinated ACE action, but the owner is the same person ACE identified running HDFull",TorrentFreak; W13
+OnionPlay Discord server,discovery-community,DEAD,2026-11-08,"Discord server taken down for copyright infringement; not confirmed a coordinated ACE action",TorrentFreak; W13
+Batoto Discord server,discovery-community,DEAD,2026-11-08,"Discord server taken down for copyright infringement; not confirmed a coordinated ACE action; Bato.to main site also shut Jan 2026",TorrentFreak; W13
+Piracy Megathread,discovery-community,UP,2026-11-08,"r/Piracy megathread - crowdsourced list of everything; updated continuously; UP",W13
+Awesome Piracy,discovery-community,UP,2026-11-08,"GitHub awesome-list of piracy resources; UP",W13
+piracy.moe wiki,discovery-community,UP,2026-11-08,"Wiki for anime piracy; UP",W13
+EverythingMoe,discovery-community,UP,2026-11-08,"Anime piracy index; UP",W13
+MyAnime.Space,discovery-community,UNKNOWN,2026-11-08,"Community/index named in reporting; no standalone status reported",W13
+Quad9,intermediary,UP,2026-11-08,"Public recursive DNS resolver (9.9.9.9); blocks known piracy/malware domains; used by users to bypass ISP blocks - intermediary, not a piracy site; UP",W17
+Cloudflare,intermediary,UP,2026-11-08,"CDN/DNS provider; ordered by courts to unmask pirate-site operators (Mangajikan; ShowBox); also the vehicle for ISP-level site blocking; intermediary, not a piracy site; UP",TorrentFreak; W17
+PropellerAds,intermediary,UP,2026-11-08,"Ad network used by pirate sites for monetization; paid HiAnime network $12.85M; named in criminal indictments; intermediary, not a piracy site; UP",TorrentFreak; W17
+
