@@ -1,5 +1,7 @@
 # Muse AI by Meta Watches Cartoons Online (MuseAi-WCO)
 
+<img width="1460" height="818" alt="Screenshot 2026-11-09 183353" src="https://github.com/user-attachments/assets/a1213fc8-446b-4c6d-9741-6a1033123d57" />
+
 A redacted, offline-friendly research map for tracking public-record status observations without publishing working destinations.
 
 > **Track the signal. Not the door.**
